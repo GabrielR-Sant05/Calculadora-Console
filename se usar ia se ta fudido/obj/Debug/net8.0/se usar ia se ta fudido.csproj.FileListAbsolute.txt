@@ -1,0 +1,17 @@
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\bin\Debug\net8.0\se usar ia se ta fudido.exe
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\bin\Debug\net8.0\se usar ia se ta fudido.deps.json
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\bin\Debug\net8.0\se usar ia se ta fudido.runtimeconfig.json
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\bin\Debug\net8.0\se usar ia se ta fudido.dll
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\bin\Debug\net8.0\se usar ia se ta fudido.pdb
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\bin\Debug\net8.0\Spectre.Console.dll
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\obj\Debug\net8.0\se usar ia se ta fudido.csproj.AssemblyReference.cache
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\obj\Debug\net8.0\se usar ia se ta fudido.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\obj\Debug\net8.0\se usar ia se ta fudido.AssemblyInfoInputs.cache
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\obj\Debug\net8.0\se usar ia se ta fudido.AssemblyInfo.cs
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\obj\Debug\net8.0\se usar ia se ta fudido.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\obj\Debug\net8.0\se usar .961E659A.Up2Date
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\obj\Debug\net8.0\se usar ia se ta fudido.dll
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\obj\Debug\net8.0\refint\se usar ia se ta fudido.dll
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\obj\Debug\net8.0\se usar ia se ta fudido.pdb
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\obj\Debug\net8.0\se usar ia se ta fudido.genruntimeconfig.cache
+D:\Projetos\C#\se usar ia se ta fudido\se usar ia se ta fudido\obj\Debug\net8.0\ref\se usar ia se ta fudido.dll
